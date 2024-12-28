@@ -9,7 +9,7 @@ This repository contains a comprehensive PDF document of notes I created while p
 ## 📄 File Overview  
 
 - **`AWS_AI_Practitioner_Notes.pdf`**  
-  - A single PDF file containing all handwritten notes.  
+  - PDF files containing all handwritten notes.  
   - Covers key topics like:  
     - Basics of AWS Cloud  
     - Amazon Bedrock and Generative AI
